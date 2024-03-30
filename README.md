@@ -11,13 +11,14 @@ vue --version
 3. Run the following command to clone the project repository:
 
    ```shell
-   git clone https://github.com/oche/AI-Powered-Food-frontend.git
+   git clone https://github.com/OcheVerse/AI-Powered-Food-frontend.git
    ```
 
 4. Change into the project directory:
 
    ```shell
    cd AI-Powered-Food-frontend
+   cd foodr
    ```
 
 5. Install the project dependencies using npm or yarn. Choose one of the following commands based on your preference:
